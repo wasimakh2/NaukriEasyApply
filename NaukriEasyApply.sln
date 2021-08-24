@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NaukriEasyApply", "NaukriEasyApply.pyproj", "{2D34FE05-B955-4920-82D9-F9FABD8B371B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D34FE05-B955-4920-82D9-F9FABD8B371B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D34FE05-B955-4920-82D9-F9FABD8B371B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C7392E1-B2EE-4C4F-AA42-6BFA86AD9477}
+	EndGlobalSection
+EndGlobal
